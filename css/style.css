@@ -1,0 +1,50 @@
+.nav-search input{
+	background-color: #000;
+}
+.nav-search button{
+	background-color: red;
+}
+.nav-search button:hover{
+	color: #fff;
+	background-color: #000;
+}
+body{
+	font-family: cambria math;
+	padding-top: 20px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+hr{
+	font-weight: 20px;
+}
+.list-inline-item{
+	color: blue;
+}
+.list-inline-item:hover{
+	color: red;
+}
+.carousel-item img{
+	padding: 20px;
+	height: auto;
+	width: 100%;
+}
+.carousel-slide img{
+	width: 960px;
+	height: 650px;
+}
+h5{
+	color: red;
+}
+.yours img{
+	width: 100px;
+	height: 100px;
+}
+.col-sm img{
+	height: 350px;
+	width: 350px;
+}
+.btn btn-danger{
+	float: right;
+}
+
+
